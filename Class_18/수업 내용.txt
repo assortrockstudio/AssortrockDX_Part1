@@ -1,0 +1,3 @@
+1. GameObject 설계 시작
+
+2. TransformComopnent 구현 예정

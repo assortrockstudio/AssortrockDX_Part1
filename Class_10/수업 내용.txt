@@ -1,0 +1,5 @@
+1. 삼각형 움직여보기
+
+2. Singleton 변경
+
+3. TimeMgr 구현

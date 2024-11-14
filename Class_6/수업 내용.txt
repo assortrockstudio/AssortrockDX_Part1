@@ -1,0 +1,3 @@
+1. RenderTarget 클리어
+
+2. SwapChain 으로 화면에 클리어된 타겟 출력하기

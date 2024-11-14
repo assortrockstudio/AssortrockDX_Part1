@@ -1,0 +1,6 @@
+1. SimpleMath 추가
+
+2. Vertex Buffer 생성
+
+3. VertexShader 만드는 중
+  - InputLayout 정보 작성 중
